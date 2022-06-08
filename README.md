@@ -13,7 +13,7 @@
 | npm view | Lists the latest versions of all dependencies in this software |
 | npm outdated | Lists only the dependencies in this software which are outdated |
 | npm owner add USERNAME PACKAGENAME | Add someone as an owner |
-| npm ls | List Packages|
+| npm ls | List Packages |
 | npm deprecate PACKAGE@"< 0.2.0" "critical bug fixed in v0.2.0" | Adds warning to those that install a package of old versions |
 | npm update [-g] PACKAGE | update all packages, or selected packages |
 | npm outdated [PACKAGE] | Check for outdated packages |
