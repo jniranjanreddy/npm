@@ -17,7 +17,6 @@
 | npm deprecate PACKAGE@"< 0.2.0" "critical bug fixed in v0.2.0" | Adds warning to those that install a package of old versions |
 | npm update [-g] PACKAGE | update all packages, or selected packages |
 | npm outdated [PACKAGE] | Check for outdated packages |
-
 | npm i sax	| NPM package |
 | npm i sax@latest	 | Specify tag latest |
 | npm i sax@3.0.0	| Specify version 3.0.0 |
